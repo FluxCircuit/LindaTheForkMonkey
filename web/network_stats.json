@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T02:54:12.647886+00:00",
+  "last_updated": "2026-10-16T02:51:34.664060+00:00",
   "total_monkeys": 31,
   "active_today": 7,
   "generations": {
@@ -89,7 +89,7 @@
       "beach": 2,
       "forest": 1,
       "city": 1,
-      "volcano": 1,
+      "space": 1,
       "underwater": 1
     },
     "special": {
